@@ -16,8 +16,8 @@ html {
 body {
   position: relative;
   display: inline-flex;
-  width: 640px;
-  height: 640px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   background-color: black;
   background-image: url("./assets/Frame_1.svg");
